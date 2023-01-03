@@ -1,4 +1,4 @@
-clear#Use this script to import usernames from .txt file into Active Directory
+#Use this script to import usernames from .txt file into Active Directory
 
 #----------- Variables ----------------------#
 
