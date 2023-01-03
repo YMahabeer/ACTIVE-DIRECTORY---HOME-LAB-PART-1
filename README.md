@@ -246,10 +246,10 @@ Your first client computer is now configured. You can do the same exact steps to
 7.	Click on Change.  
 ![image](https://user-images.githubusercontent.com/121589466/210333899-5d4bfc3d-8396-43c3-bb81-ff2e6be0600a.png)
 8.	Give your machine a new name. You will also have to re-authorize the machine to be on the domain. You do this by first removing it from the domain. Change “Member of” to Workgroup and give it a name of WORKGROUP. Then click ok and restart the machine. 
-![image](https://user-images.githubusercontent.com/121589466/210333912-b329e3e5-97bf-49ca-a644-1a1702d8e03a.png)
+![image](https://user-images.githubusercontent.com/121589466/210333912-b329e3e5-97bf-49ca-a644-1a1702d8e03a.png)  
 9.	Now you can go back and re-add this machine to the domain. You will be prompted to authenticate using the username and password of a user account that is on the domain. Then restart the machine to apply the changes.  
-![image](https://user-images.githubusercontent.com/121589466/210333930-7f29a0ca-3643-4540-a232-b1babacd5660.png)
+![image](https://user-images.githubusercontent.com/121589466/210333930-7f29a0ca-3643-4540-a232-b1babacd5660.png)  
 10.	You should now see this new machine show up in Active Directory Users and Computers. Look in the Computers folder to see the new machine.  
-![image](https://user-images.githubusercontent.com/121589466/210333947-2f1e834d-3023-483f-8447-582a3cd6d378.png)
+![image](https://user-images.githubusercontent.com/121589466/210333947-2f1e834d-3023-483f-8447-582a3cd6d378.png)  
 
 
