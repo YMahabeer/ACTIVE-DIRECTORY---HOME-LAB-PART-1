@@ -1,6 +1,4 @@
-# ACTIVE-DIRECTORY---HOME-LAB  
-
-## Active Directory Home Lab  
+# Active Directory Home Lab  
 
 
 ## Lab Overview  
