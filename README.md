@@ -23,8 +23,8 @@ The first step in setting up your test network is to download and install Virtua
   2.	Click the version that corresponds to your operating system.  
   ![image](https://user-images.githubusercontent.com/121589466/210327776-ac898d5d-f3d5-4379-833c-a09624e7e5ea.png)  
   3.	Also download Oracle VM Virtual Box Extension Pack and store it in the same location.  
-  ![image](https://user-images.githubusercontent.com/121589466/210327790-680c0387-bb63-4a86-af8b-d87e9ec0486b.png)  
-
+  ![image](https://user-images.githubusercontent.com/121589466/210327790-680c0387-bb63-4a86-af8b-d87e9ec0486b.png)
+<br><br />
 You will also need to download the right operating systems which you will install onto the virtual machines. You will use Server 2019 for the domain controller and Windows 10 Enterprise for the client machines.  
   1.	Download the O.S evaluation images here:  
   https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019  
