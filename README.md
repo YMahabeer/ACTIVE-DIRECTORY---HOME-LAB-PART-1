@@ -1,5 +1,5 @@
 # Active Directory Home Lab [Part 1]  
-
+![image](https://jumpcloud.com/wp-content/uploads/2016/07/AD1.png)  
 
 ## Lab Overview  
 
